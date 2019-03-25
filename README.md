@@ -1,2 +1,7 @@
-# OS-Assignment-26-K1615-11601789
-OS Assignment (Q6 &amp; Q7)
+# Understanding schedulers in Operating systems
+
+## Basic implementation of 
+* Shortest Job first
+* Priority scheduling & Round Robin using two queues
+
+C++ code to understand scheduling in OS.
