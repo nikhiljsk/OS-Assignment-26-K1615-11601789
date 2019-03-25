@@ -4,4 +4,4 @@
 * Shortest Job first
 * Priority scheduling & Round Robin using two queues
 
-C++ code to understand scheduling in OS.
+This repo contains C++ code to understand scheduling in OS.
